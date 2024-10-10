@@ -6,4 +6,4 @@ college_id,college_name,location,affiliated_university,course_offered,specializa
 205,Birla Vishvakarma Mahavidyalaya (BVM),"Vallabh Vidyanagar, Gujarat",Gujarat Technological Univ,B.Tech,"Mechanical, Electrical",4,140000,True,70% in 12th,25,4.5,87,True,70,Offline,B+
 202,"National Institute of Technology, Surat","Surat, Gujarat",National Institute of Technology,"B.Tech, M.Tech","Computer Science, Electrical, Electronics",4,250000,True,"75% in 12th, JEE Main",30,4.7,90,True,100,Offline,A
 111,svit,vasad,gtu,"Tech,BSC,BCA,bba,mba","IT,EC",4,150000,Yes,70%,50,50%,25%,Yes,100,Offline,B+
-1448,abc,anand,gtu,btech,IT,4,140000,Yes,80,50,50,50,Yes,50,Offline,A+
+
